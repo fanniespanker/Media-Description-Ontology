@@ -1,2 +1,2 @@
-# Media-Description-Ontology
-An ontology and vocabulary for describing media of all media, formats, and genres.
+# Media Description Ontology (MDO)
+A structured ontology for describing works of all media, formats, and genres.
